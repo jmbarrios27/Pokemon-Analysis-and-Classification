@@ -1,5 +1,5 @@
 # Pokemon-Analysis-and-Classification
-![pokemon Logo](/images/pokemon.png)
+![](/images/pokemon.jpg)
 
 This data set includes 721 Pokemon, including their number, name, first and second type, and basic stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed. It has been of great use when teaching statistics to kids. With certain types you can also give a geeky introduction to machine learning.
 
